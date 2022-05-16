@@ -45,7 +45,7 @@ footer {
 
 @media screen and (min-width: 767px) {
     body {
-        background-image: url('/img/splash-md.jpg');
+        background-image: url('../img/splash-md.jpg');
         background-position: center;
         background-size: cover;
     }
@@ -65,7 +65,7 @@ footer {
 
 @media screen and (min-width: 991px) {
     body{
-        background-image: url('/img/splash-lg.jpg');
+        background-image: url('../img/splash-lg.jpg');
     }
     nav a {
         font-size: 1.5rem;
@@ -80,6 +80,6 @@ footer {
 
 @media screen and (min-width: 1199px) {
     body{
-        background-image: url('/img/splash-xl.jpg');
+        background-image: url('../img/splash-xl.jpg');
     }
 }
